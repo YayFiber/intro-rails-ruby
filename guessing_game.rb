@@ -1,5 +1,4 @@
 number = rand(10) + 1
-
 puts "Welcome to my guessing game!"
 puts "-" * 20
 
